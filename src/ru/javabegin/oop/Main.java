@@ -6,5 +6,8 @@ public class Main {
 	// write your code here
         System.out.println("Hello World!");
         System.out.println("Welcome to git!");
+        System.out.println("Welcome to git!");
+        System.out.println("Welcome to git!");
+        System.out.println("Welcome to git!");
     }
 }
